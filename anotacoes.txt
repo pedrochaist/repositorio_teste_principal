@@ -1,0 +1,9 @@
+fetch -> solicita ao repositório as últimas atualizações dos outros membros (faz a cópia das alterações do remoto pro local) (o merge também tem essa função) / fetch (buscar alterações) e o merge (mesclar as alterações) (pulling faz as duas coisas)
+
+checking out -> processo que o git usa para alterar o working tree para um certo ponto do repositório
+
+master -> linha principal do desenvolvimento
+
+HEAD -> último commit que se está trabalhando
+
+no diretório /.git está o repositório local do desenvolvedor
